@@ -1,0 +1,3 @@
+Warning: (:0, ): QPaintDevice::metrics: Device has no metric information
+Debug: (:0, ): Unrecognised metric -309033672!
+Debug: (/Users/RDD1MAC02/Desktop/CTA3/ReallusionSDK/RLProductToolQ/HttpPostWrapper.cpp:145, auto CHttpPostWrapper::IsInternetConnectionActive(std::wstring &, std::wstring &, int, bool)::(anonymous class)::operator()(QList<QUrl> &, int &, QNetworkProxy &, bool) const): ===>CHttpPostWrapper::IsInternetConnectionActive(): connectToHost:  1
